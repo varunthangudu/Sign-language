@@ -1,1 +1,0 @@
-# Real Time Hand Gesture recognition and Live Hand Sign Translator
